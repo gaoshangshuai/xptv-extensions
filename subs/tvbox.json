@@ -7,10 +7,10 @@
             "ext": "https://raw.githubusercontent.com/gaoshangshuai/xptv-extensions/refs/heads/main/js/jianpian.js"
         },
         {
-            "name": "apple",
+            "name": "xiaopinguo",
             "type": 3,
-            "api": "csp_apple",
-            "ext": "https://raw.githubusercontent.com/gaoshangshuai/xptv-extensions/refs/heads/main/js/apple.js"
+            "api": "csp_xiaopingguo",
+            "ext": "https://raw.githubusercontent.com/gaoshangshuai/xptv-extensions/refs/heads/main/xiaopingguo.js"
         }
     ]
 }
