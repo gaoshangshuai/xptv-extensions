@@ -1,10 +1,10 @@
 {
     "sites": [
         {
-            "name": "biu | ONE",
+            "name": "jianpian",
             "type": 3,
-            "api": "csp_biu_one",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/one.js"
+            "api": "csp_jianpian",
+            "ext": "https://raw.githubusercontent.com/gaoshangshuai/xptv-extensions/refs/heads/main/js/jianpian.js"
         },
         {
             "name": "biu | pornhub",
